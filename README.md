@@ -9,4 +9,4 @@ The first line contains the integer NN, the number of students. The next NN line
 
 Output Format
 
-Print one line: The average of the marks obtained by the particular student correct to 2 decimal places.
+Print one line: The average of the marks obtained by the particular student correct to 2 decimal places
